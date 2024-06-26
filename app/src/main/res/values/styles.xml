@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para los botones del MENU -->
+    <style name="btnMenu">
+        <item name="android:background">@drawable/ic_menu_button</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">70dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:paddingStart">16dp</item> <!-- Agregar padding para icono -->
+        <item name="android:paddingEnd">16dp</item> <!-- Agregar padding para icono -->
+        <item name="android:drawableEnd">@drawable/icono_book</item> <!-- Agregar icono -->
+        <item name="android:drawablePadding">8dp</item> <!-- Agregar padding entre texto e icono -->
+        <item name="android:gravity">center_vertical</item> <!-- Alinear texto e icono verticalmente -->
+    </style>
+
+    <!-- Estilo para los botones de la APP -->
+    <style name="btnApp">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+</resources>

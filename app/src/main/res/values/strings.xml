@@ -1,0 +1,94 @@
+<resources>
+    <!-- STRINGS ACTIVITY MAIN -->
+    <string name="view_sign_in">Sign In</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_sign_up">Sign Up</string>
+
+    <!-- STRINGS ACTIVITY MENU -->
+    <string name="app_name">My Favorite Store</string>
+    <string name="connected_user">Connected user</string>
+    <string name="log_out">LogOut</string>
+    <string name="btn_customer">Customers</string>
+    <string name="btn_products">Products</string>
+    <string name="btn_vehicles">Vehicles</string>
+    <string name="btn_supplies">Supplies</string>
+    <string name="btn_sales">Sales</string>
+    <string name="btn_list_users">Users list</string>
+
+    <!-- STRINGS ACTIVITY USERS -->
+    <string name="view_sign_up">Sign Up</string>
+    <string name="txt_id_card_user">Identification</string>
+    <string name="txt_name_user">Full name</string>
+    <string name="txt_password_user">Password</string>
+    <string name="txt_repeat_pass_user">Repeat password</string>
+    <string name="txt_role_user">Role (1: Admin | 2:Vendor)</string>
+    <string name="btn_create_user">Create User</string>
+
+    <!-- STRINGS ACTIVITY CUSTOMER -->
+    <string name="view_reg_customer">Customer registration</string>
+    <string name="view_return_menu">Return</string>
+    <string name="btn_create_customer">Create client</string>
+    <string name="btn_list_customer">List clients</string>
+    <string name="txt_id_card_customer">Identification</string>
+    <string name="txt_name_customer">Full name</string>
+    <string name="txt_phone_customer">Phone</string>
+    <string name="txt_email_customer">Email</string>
+    <string name="txt_city_customer">City</string>
+
+    <!-- STRINGS ACTIVITY VEHICLES -->
+    <string name="view_reg_vehicle">Vehicle registration</string>
+    <string name="btn_create_vehicle">Create vehicle</string>
+    <string name="btn_list_vehicle">List vehicles</string>
+    <string name="txt_code_product_vehicle">Product code</string>
+    <string name="txt_name_product_vehicle">Product name</string>
+    <string name="txt_price_product_vehicle">Product price</string>
+    <string name="txt_type_vehicle">Vehicle type</string>
+    <string name="txt_model_vehicle">Model vehicle</string>
+    <string name="txt_color_vehicle" translatable="false">Color</string>
+    <string name="txt_picture_vehicle">Picture</string>
+
+    <!-- STRINGS ACTIVITY SUPPLIES -->
+    <string name="view_reg_supplie">Supplie registration</string>
+    <string name="btn_create_supplie">Create supplie</string>
+    <string name="btn_list_supplie">List supplies</string>
+    <string name="txt_code_product_supplie">Product code</string>
+    <string name="txt_name_product_supplie">Product name</string>
+    <string name="txt_price_product_supplie">Product price</string>
+    <string name="txt_brand_supplie">Brand supplie</string>
+    <string name="txt_ref_supplie">Input reference</string>
+    <string name="txt_picture_supplie">Picture</string>
+
+    <!-- STRINGS ACTIVITY SALES -->
+    <string name="view_reg_sales">SALES</string>
+    <string name="btn_create_sale">Create sale</string>
+    <string name="btn_list_sales">List sales</string>
+    <string name="btn_save_sale">Save sale</string>
+    <string name="txt_date_sale">Date</string>
+    <string name="txt_customer_sale">Customer</string>
+    <string name="txt_seller_sale">Seller</string>
+    <string name="txt_product_name">Product</string>
+    <string name="txt_product_quantity">Quantity</string>
+    <string name="btn_add_product">Add</string>
+
+    <!-- STRINGS ACTIVITY LIST -->
+    <string name="view_return">Return</string>
+    <string name="view_users_registered">Registered users</string>
+    <string name="view_clients_registered">Registered clients</string>
+    <string name="view_vehicles_registered">Registered vehicles</string>
+    <string name="view_supplies_registered">Registered supplies</string>
+    <string name="view_sales_registered">Registered sales</string>
+    <string name="view_label">Label</string>
+
+    <string name="view_id" translatable="false">ID</string>
+    <string name="view_idCard">Id Card</string>
+    <string name="view_fullname">Full name</string>
+    <string name="view_role">Role</string>
+
+    <!-- STRINGS ACTIVITY PRODUCTS SELECTED -->
+    <string name="view_product_code">Product code</string>
+    <string name="view_product_name">Product name</string>
+    <string name="view_price_unit">Unit: $0.0</string>
+    <string name="view_quatity_unit">Qty: 0</string>
+    <string name="view_total_product">Total: $0.0</string>
+
+</resources>
